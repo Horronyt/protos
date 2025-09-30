@@ -1,3 +1,3 @@
-module github.com/Horronyt/protos
+module github.com/horronyt/protos
 
 go 1.24
